@@ -4,7 +4,7 @@
 #### IBM Account #: `039347830`
 #### IBM Product: Classic z/OS replication
 ## Affect system:
-#### Critical operation for All transactions on system A to B __contact information below__
+#### Critical operation for All transactions on system A to B 
 > [!Important]  
 > Contact Team: jons@company.com, jane.k@acme.com  
 > Escalate IBM Support Case to IBM Duty Manager Phone# XXX-XXX-XXX  

@@ -5,7 +5,7 @@
 #### IBM Product: Classic z/OS replication
 ## Affect system:
 #### Critical operation for All transactions on system A to B __contact information below__
-> [Important!]  
+> [!Important]  
 > Contact Team: jons@company.com, jane.k@acme.com  
 > Escalate IBM Support Case to IBM Duty Manager Phone# XXX-XXX-XXX  
 > IBM Technical Sales Contact: s.suh@ibm.com

@@ -1,6 +1,6 @@
 ## Databand Alert for CDC
 
-#### Open IBM Suppot Ticket: https://www.ibm.com/mysupport/s/createrecord/NewCase?productId=null&language=en_US
+#### Open IBM Suppot Ticket: https://www.ibm.com/mysupport/s/topic/0TO500000001k76GAA/data-replication?language=en_US
 #### IBM Account #: `039347830`
 #### IBM Product: Classic z/OS replication
 ## Affect system:

@@ -8,7 +8,9 @@
 > [Important!]  
 > Contact Team: jons@company.com, jane.k@acme.com  
 > Escalate IBM Support Case to IBM Duty Manager Phone# XXX-XXX-XXX  
-> IBM Technical Sales Contact: s.suh@ibm.com  
+> IBM Technical Sales Contact: s.suh@ibm.com
+
+
 ![image](https://github.com/user-attachments/assets/2642b7b5-9b32-4f28-885e-4bfeab25844b)
 
 

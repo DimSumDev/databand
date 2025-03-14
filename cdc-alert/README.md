@@ -1,10 +1,10 @@
 ## Databand Alert for CDC
 
 #### Open IBM Suppot Ticket: https://www.ibm.com/mysupport/s/topic/0TO500000001k76GAA/data-replication?language=en_US
-#### IBM Account #: `039347830`
+#### IBM Account #: `xxxxxxxxxxx`
 #### IBM Product: Classic z/OS replication
 ## Affect system:
-#### Critical operation for All transactions on system A to B 
+#### Critical operation for All transactions on system `A` to `B` 
 > [!Important]  
 > Contact Team: jons@company.com, jane.k@acme.com  
 > Escalate IBM Support Case to IBM Duty Manager Phone# XXX-XXX-XXX  
